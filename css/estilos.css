@@ -1,0 +1,18 @@
+body{
+    background-image: url(../imagenes/paisaje.jpg);
+    color: white;
+}
+.cabecera{
+    margin: 50px 50px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.main{
+    margin: 50px 50px;
+    border: 1px solid black;
+}
+.footer{
+    margin: 50px 50px;
+    border: 1px solid black;
+}
