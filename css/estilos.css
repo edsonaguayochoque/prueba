@@ -25,4 +25,13 @@ body{
     border: 1px solid black;
     color: white;
     display: flex;
+    justify-content: space-between;
+}
+.redes_sociales{
+    display: flex;
+    align-items: center;
+}
+.redes_sociales a{
+
+    margin-right: 15px;
 }
