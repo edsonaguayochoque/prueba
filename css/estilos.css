@@ -1,18 +1,27 @@
 body{
-    background-image: url(../imagenes/paisaje.jpg);
-    color: white;
+    font-style: italic;
+}
+
+.main{
+    width: 70%;
+    margin: 20px auto;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: burlywood;
 }
 .cabecera{
-    margin: 50px 50px;
-    border: 1px solid black;
-    padding: 10px;
+    background-color: darkcyan;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
     border-radius: 10px;
-}
-.main{
-    margin: 50px 50px;
-    border: 1px solid black;
+    box-shadow: 0px 5px 10px 5px;
 }
 .footer{
-    margin: 50px 50px;
+    background-color: darkgrey;
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
     border: 1px solid black;
+    color: white;
 }
