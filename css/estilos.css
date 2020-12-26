@@ -3,11 +3,11 @@ body{
 }
 
 .main{
-    width: 70%;
+    width: 90%;
     margin: 20px auto;
     border: 1px solid black;
     padding: 20px;
-    background-color: burlywood;
+    background-color: deeppink;
 }
 .cabecera{
     background-color: darkcyan;
